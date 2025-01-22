@@ -7,7 +7,7 @@ A Software Engineering student from YNU. Focusing on something useless.
 + 💻 Opensource Contributor
 + 🎧 Electronic Music Producer
 + 🎮 Maybe Game Producer Later
-+ 🔭 Research Directions: GNN，LLM
++ 🔭 Research Directions: GNN, LLM and Data Mining for Healthcare
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrowFeather&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
