@@ -4,9 +4,10 @@ KrowFeather here.
 
 A Software Engineering student from YNU. Focusing on something useless.
 
-+ Programmer
-+ Electronic Music Producer
-+ Maybe Game Producer Later
++ 💻 Opensource Contributor
++ 🎧 Electronic Music Producer
++ 🎮 Maybe Game Producer Later
++ 🔭 Research Directions: GNN，LLM
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrowFeather&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
