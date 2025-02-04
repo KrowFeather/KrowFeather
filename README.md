@@ -13,4 +13,4 @@ A Software Engineering student from YNU. Focusing on something useless.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrowFeather&layout=donut&theme=transparent&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrowFeather&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrowFeather&theme=transparent&layout=compact&v=2)](https://github.com/anuraghazra/github-readme-stats)
