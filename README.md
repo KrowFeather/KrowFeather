@@ -20,4 +20,4 @@ A Software Engineering student from YNU. Focusing on something useless.
 </div>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrowFeather&hide_border=true&card_width=800&theme=shadow_red&layout=compact&title_color=f03e3e&text_color=ddd)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrowFeather&hide_border=true&card_width=800&theme=shadow_red&layout=compact&title_color=f03e3e&text_color=ddd&v=2)](https://github.com/anuraghazra/github-readme-stats)
