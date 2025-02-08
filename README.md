@@ -32,7 +32,10 @@ Frameworks & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"  />
-              
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  width="40" height="40"/>
+          
+                        
       
 </div>
 
@@ -42,8 +45,6 @@ Currently Learning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"  width="40" height="40" />
 
-          
-          
 </div>
 <hr>
 
@@ -60,6 +61,5 @@ Currently Learning
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrowFeather&hide_border=true&card_width=800&theme=shadow_red&layout=compact&title_color=f03e3e&text_color=ddd&v=2)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
 
 
