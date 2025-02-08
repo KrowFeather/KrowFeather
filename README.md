@@ -1,24 +1,22 @@
-<div align="center">
+<div>
   <h1>The Past Is Never Dead, It's Not Even Past.</h1>
   
   KrowFeather here.
 
   A Software Engineering student from YNU. Focusing on something useless.
 
-💻 Opensource Contributor
-
-🎧 Electronic Music Producer
-
-🎮 Maybe Game Producer In Future
-
-🔭 Research Directions: GNN, LLM and Data Mining for Healthcare
-
-  <h3>Visitors</h3>
-  <img src="https://profile-counter.glitch.me/KrowFeather/count.svg"/>
++ 💻 Opensource Contributor
++ 🎧 Electronic Music Producer
++ 🎮 Maybe Game Producer In The Future
++ 🔭 Research Directions: GNN, LLM and Data Mining for Healthcare
 </div>
 
-<div align="center">
+<hr>
 
+<div align="center">
+  <h3>Visitors</h3>
+  <img src="https://profile-counter.glitch.me/KrowFeather/count.svg"/>
+  <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=krowfeather&hide_border=true&layout=compact&langs_count=10&role=owner,collaborator&theme=shadow_red&title_color=f03e3e&text_color=ddd" />
 </a>
