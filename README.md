@@ -51,9 +51,6 @@ Currently Learning
 <hr>
 
 <div align="center">
-  <h3>Visitors</h3>
-  <img src="https://profile-counter.glitch.me/KrowFeather/count.svg"/>
-  <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=krowfeather&hide_border=true&layout=compact&langs_count=10&role=owner,collaborator&theme=shadow_red&title_color=f03e3e&text_color=ddd" />
 </a>
