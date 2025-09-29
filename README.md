@@ -3,12 +3,12 @@
   
   KrowFeather here.
 
-  A Software Engineering student from YNU and 0th year postgraduate student of BIT majoring in AI. Focusing on something useless.
+  A Software Engineering student from YNU and 0th year postgraduate of BIT majoring in AI. Focusing on something useless.
 
 + 💻 Opensource Contributor
 + 🎧 Electronic Music Producer
 + 🎮 Maybe Game Producer In The Future
-+ 🔭 Research Directions: GNN, LLM and Data Mining for Healthcare
++ 🔭 Research Directions: NLP, IR
 </div>
 
 Languages
