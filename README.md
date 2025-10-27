@@ -3,7 +3,7 @@
   
   KrowFeather here.
 
-  A Software Engineering student from YNU and 0th year postgraduate of BIT majoring in AI. Focusing on something useless.
+I am an undergraduate student majoring in Software Engineering at YNU and a pre-graduate student at BIT. Focusing on something useless.
 
 + 💻 Opensource Contributor
 + 🎧 Electronic Music Producer
