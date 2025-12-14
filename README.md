@@ -58,7 +58,7 @@ Currently Learning
 <img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=krowfeather&hide_border=true&layout=compact&langs_count=10&role=owner,collaborator&theme=shadow_red&title_color=f03e3e&text_color=ddd" />
 </a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrowFeather&hide_border=true&card_width=800&theme=shadow_red&layout=compact&title_color=f03e3e&text_color=ddd&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrowFeather&hide_border=true&card_width=800&theme=shadow_red&layout=compact&title_color=f03e3e&text_color=ddd&v=2&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
